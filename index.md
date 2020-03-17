@@ -11,6 +11,7 @@
 - [Learn something else new](#learn-something-else-new)
 - [Get on top of administration and data analysis](#get-on-top-of-administration-and-data-analysis)
 - [Sources/acknowledgements](#sources-acknowledgements)
+- [Other pages on this site](#sitemap)
 
 This short document lists possible activities suitable for Honours and HDR candidates who are working from home as part of social distancing, or who are asymptomatic and self-isolating. If you're unwell, you should rest. In any case, you should not expect to be as productive as usual - this is a very stressful and uncertain time. The goal of this document is to give you some things to do, and some structure, in case that will help you.
 
@@ -86,3 +87,7 @@ I'm trying to build this document by taking on information from public and non-p
 - Vittorio Saggiomo's tweet: [https://twitter.com/V\_Saggiomo/status/1238776802530807809](https://twitter.com/V_Saggiomo/status/1238776802530807809)
 - [NewPI slack](https://newpislack.wordpress.com/)
 - [Dr Laura McKemmish](http://www.chemistry.unsw.edu.au/staff/laura-mckemmish) for suggestions
+
+### Sitemap
+- [Installing and using Windows Subsystem for Linux](install-wsl.md)
+- [Installing and introduciton to GFN-xtb](use-xtb.md)
