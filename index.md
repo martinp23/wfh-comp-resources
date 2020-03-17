@@ -76,6 +76,7 @@ Use this opportunity to get up to date with the literature. Here are a few ways 
 
 ### Learn something else new
 - Consider free courses from [edx](https://www.edx.org/) or [coursera](https://www.coursera.org/).
+- UNSW has a subscription to [LinkedIn Learning](https://www.myit.unsw.edu.au/services/staff/educational-technology/linkedin-learning) (formerly Lynda), which has a huge range of video courses.
 
 ### Get on top of administration and data analysis
 - If you have access to everything you need, try to find time to get on top of your data analysis and administration tasks. You don't want to come back to study after this period with a huge todo list.
