@@ -1,5 +1,17 @@
 ## Things to do for isolated research students
 
+- [Editorials and other information](#editorials-and-other-information)
+- [NSW/UNSW-specific](#nsw-unsw-specific)
+- [Video-conferencing tools](#video-conferencing-tools)
+- [Reading](#reading)
+- [Learn python](#learn-python)
+- [Learn bash/shell](#learn-bash-shell)
+- [Play with some computational chemistry](#play-with-some-computational-chemistry)
+- [Learn machine-learning and data science](#learn-machine-learning-and-data-science)
+- [Learn something else new](#learn-something-else-new)
+- [Get on top of administration and data analysis](#get-on-top-of-administration-and-data-analysis)
+- [Sources/acknowledgements](#sources-acknowledgements)
+
 This short document lists possible activities suitable for Honours and HDR candidates who are working from home as part of social distancing, or who are asymptomatic and self-isolating. If you're unwell, you should rest. In any case, you should not expect to be as productive as usual - this is a very stressful and uncertain time. The goal of this document is to give you some things to do, and some structure, in case that will help you.
 
 ### Editorials and other information
