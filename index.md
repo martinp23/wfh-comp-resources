@@ -25,7 +25,7 @@ This short document lists possible activities suitable for Honours and HDR candi
 - [UNSW COVID-19](https://www.unsw.edu.au/advice-on-unsw-response-to-the-coronavirus)
 - [UNSW Health COVID-19](https://student.unsw.edu.au/health-service-information-coronavirus#overlay-context=hsu)
 - [UNSW library instructions for off-site access](https://www.library.unsw.edu.au/study/access-to-online-resources)
-- Accessing journals through the UNSW library proxy: insert this into the URL: .wwwproxy1.library.unsw.edu.au between the domain and the path, then log in. For example: [https://www.nature.com.wwwproxy1.library.unsw.edu.au/articles/s41586-020-2068-4](https://www.nature.com.wwwproxy1.library.unsw.edu.au/articles/s41586-020-2068-4). 
+- Accessing journals through the UNSW library proxy: insert this into the URL: .wwwproxy1.library.unsw.edu.au between the domain and the path, then log in. For example: [https://www.nature.com.wwwproxy1.library.unsw.edu.au/articles/s41586-020-2068-4](https://www.nature.com.wwwproxy1.library.unsw.edu.au/articles/s41586-020-2068-4). Here are [instructions to make a button for your bookmark bar which automatically reloads a page using the proxy](make-lib-bookmarklet.md).
 
 
 ### Video-conferencing tools
@@ -93,3 +93,4 @@ I'm trying to build this document by taking on information from public and non-p
 ### Sitemap
 - [Installing and using Windows Subsystem for Linux](install-wsl.md)
 - [Installing and introduction to GFN-xtb](use-xtb.md)
+- [Instructions to make a button for your bookmark bar which automatically reloads a page using the UNSW library proxy](make-lib-bookmarklet.md)
