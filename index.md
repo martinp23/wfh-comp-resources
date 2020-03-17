@@ -1,4 +1,4 @@
-## Things to do for isolated research students
+## Things to do if you're an isolated researcher
 
 - [Editorials and other information](#editorials-and-other-information)
 - [NSW/UNSW-specific information](#nsw-unsw-specific)
