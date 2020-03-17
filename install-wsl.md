@@ -7,7 +7,7 @@
 3. Once it's installed, open Ubuntu from the start menu (you might want to type to search for it). You will need to wait a few seconds whilst it finishes installing. Then you will need to give a username (preferably all lower-case, must be just one word) and a password. Note: when you type the password, characters will not appear! Just type then press enter when you&#39;re done.
 4. You're finished! You can play with the terminal now. 
 
-** A quick intro to bash **
+**A quick intro to bash**
 
 Some tutorials for learning bash 'properly' are listed in the ['work from home' document](https://gist.github.com/martinp23/2d9f00ee0f1e9e2a510efdb35a9b6292). Below is a quick intro.
 
@@ -30,7 +30,7 @@ Some tutorials for learning bash 'properly' are listed in the ['work from home' 
 21. If you press &#39;tab&#39; while typing a command, often bash will show you all the possibilities. E.g. if you type `cd /` then hit tab, it will show you every possible subdirectory of / (which refers to the root directory: think &#39;my computer&#39; in Windows).
 22. You can access WSL using a better terminal emulator in the form of Mobaxterm ([https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/)). Get the free version, install it. Press &#39;Session&#39; in the top left, then &#39;WSL&#39; in the top right of the resulting Window. This &#39;server&#39; will now be saved, and you can connect to it by double-clicking on the relevant icon on the sessions panel on the left of Mobaxterm. The advantage of using mobaxterm is that it has more features than the Windows terminal emulator.
 
-** Updating the system **
+**Updating the system**
 
 Now that we&#39;ve worked out the basics of the terminal, let&#39;s quickly update the system with these commands:
 
