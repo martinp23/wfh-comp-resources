@@ -1,7 +1,11 @@
 **Installing WSL (Windows Subsystem for Linux) Ubuntu**
 
-1. You need to enable WSL in Windows 10. Press the Windows key and type (to search) for `Turn Windows features on or off`. Open the selected option (see [image 1](https://gist.github.com/martinp23/b569751e8c844ee26c339a1985a94bfc#file-image-1-png))
-1. Scroll down and check the box near Windows Subsystem for Linux. Press ok. You might need to restart you computer – if it asks, you do need to ☹. (see [image 2](https://gist.github.com/martinp23/b569751e8c844ee26c339a1985a94bfc#file-image-2-png))
+1. You need to enable WSL in Windows 10. Press the Windows key and type (to search) for `Turn Windows features on or off`. Open the selected option: 
+    
+    <img src="select-win-features.png" alt="Windows Features tool" width="400"/>  
+1. Scroll down and check the box near Windows Subsystem for Linux. Press ok. You might need to restart you computer – if it asks, you do need to ☹. 
+    
+    <img src="select-wsl.png" alt="Choose to enable WSL" width="200"/>  
 1. (after restarting if necessary) Open the Microsoft store. Search for Ubuntu. Choose the result called &#39;Ubuntu&#39; published by Canonical Group Limited, and install it. Here's a link: [https://www.microsoft.com/store/productId/9NBLGGH4MSV6](https://www.microsoft.com/store/productId/9NBLGGH4MSV6)
 2. If the store asks you to log in, but you don't want to, just say no. The program will install anyway.
 3. Once it's installed, open Ubuntu from the start menu (you might want to type to search for it). You will need to wait a few seconds whilst it finishes installing. Then you will need to give a username (preferably all lower-case, must be just one word) and a password. Note: when you type the password, characters will not appear! Just type then press enter when you&#39;re done.
