@@ -90,4 +90,4 @@ I'm trying to build this document by taking on information from public and non-p
 
 ### Sitemap
 - [Installing and using Windows Subsystem for Linux](install-wsl.md)
-- [Installing and introduciton to GFN-xtb](use-xtb.md)
+- [Installing and introduction to GFN-xtb](use-xtb.md)
