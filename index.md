@@ -24,6 +24,7 @@ This short document lists possible activities suitable for Honours and HDR candi
 - [NSW Health COVID-19](https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus.aspx)
 - [UNSW COVID-19](https://www.unsw.edu.au/advice-on-unsw-response-to-the-coronavirus)
 - [UNSW Health COVID-19](https://student.unsw.edu.au/health-service-information-coronavirus#overlay-context=hsu)
+- [UNSW library instructions for off-site access](https://www.library.unsw.edu.au/study/access-to-online-resources)
 
 
 ### Video-conferencing tools
