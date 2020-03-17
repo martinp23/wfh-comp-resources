@@ -25,6 +25,7 @@ This short document lists possible activities suitable for Honours and HDR candi
 - [UNSW COVID-19](https://www.unsw.edu.au/advice-on-unsw-response-to-the-coronavirus)
 - [UNSW Health COVID-19](https://student.unsw.edu.au/health-service-information-coronavirus#overlay-context=hsu)
 - [UNSW library instructions for off-site access](https://www.library.unsw.edu.au/study/access-to-online-resources)
+- Accessing journals through the UNSW library proxy: insert this into the URL: .wwwproxy1.library.unsw.edu.au between the domain and the path, then log in. For example: [https://www.nature.com.wwwproxy1.library.unsw.edu.au/articles/s41586-020-2068-4](https://www.nature.com.wwwproxy1.library.unsw.edu.au/articles/s41586-020-2068-4). 
 
 
 ### Video-conferencing tools
@@ -38,7 +39,7 @@ This short document lists possible activities suitable for Honours and HDR candi
 
 Use this opportunity to get up to date with the literature. Here are a few ways to do this:
 
-- You can use [Kopernio](https://kopernio.com) to access many papers available through your institution library from home. UNSW students, see the [library website](https://www.library.unsw.edu.au/study/access-to-online-resources) for more options.
+- You can use [Kopernio](https://kopernio.com) to access many papers available through your institution library from home. UNSW students, see UNSW-specific section above for more info.
 - Follow RSS feeds of top journals using a cloud feed reader like [feedly](https://feedly.com/). Suggested journals include [Nature Chem](https://www.nature.com/nchem/), [JACS](https://pubs.acs.org/journal/jacsat), [Angew Chem](https://onlinelibrary.wiley.com/journal/15213757), [Chem Sci](https://pubs.rsc.org/en/Journals/JournalIssues/SC#!recentarticles&adv)
 - Do keyword searches for useful reviews and articles on [web of science](https://webofknowledge.com) and [google scholar](https://scholar.google.com/)
 - Set up Google Scholar alerts for keywords (or people) relevant to your project
