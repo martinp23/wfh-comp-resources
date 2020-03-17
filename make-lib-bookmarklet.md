@@ -1,6 +1,6 @@
 UNSW has a proxy through which logged-in users can access journal articles off-site.
 
-This page will describe how to make a button for your bookmarks bar which will reload the active tab using the proxy.
+This page describes how to make a button for your bookmarks bar which will reload the active tab using the proxy.
 
 ### Instructions for Chrome
 
