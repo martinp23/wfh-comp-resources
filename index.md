@@ -73,3 +73,4 @@ I'm trying to build this document by taking on information from public and non-p
 
 - Vittorio Saggiomo's tweet: [https://twitter.com/V\_Saggiomo/status/1238776802530807809](https://twitter.com/V_Saggiomo/status/1238776802530807809)
 - [NewPI slack](https://newpislack.wordpress.com/)
+- [Dr Laura McKemmish](http://www.chemistry.unsw.edu.au/staff/laura-mckemmish) for suggestions
