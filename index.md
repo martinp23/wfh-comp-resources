@@ -25,15 +25,16 @@ This short document lists possible activities suitable for Honours and HDR candi
 - [UNSW COVID-19](https://www.unsw.edu.au/advice-on-unsw-response-to-the-coronavirus)
 - [UNSW Health COVID-19](https://student.unsw.edu.au/health-service-information-coronavirus#overlay-context=hsu)
 - [UNSW library instructions for off-site access](https://www.library.unsw.edu.au/study/access-to-online-resources)
+- VPN access ([UNSW link](https://www.myit.unsw.edu.au/services/students/remote-access-vpn))
 - Accessing journals through the UNSW library proxy: insert this into the URL: `.wwwproxy1.library.unsw.edu.au` between the domain and the path, then log in. For example: https://www.nature.com.wwwproxy1.library.unsw.edu.au/articles/s41586-020-2068-4. Here are [instructions to make a button for your bookmark bar which automatically reloads a page using the proxy](make-lib-bookmarklet.md).
 
 
 ### Video-conferencing tools
 
-- [Zoom](https://zoom.us): free for up to 40 mins for meetings; unlimited 1:1s. [UNSW link](https://www.myit.unsw.edu.au/services/staff/software/zoom-conferencing).
 - [Teams](https://products.office.com/en/microsoft-teams/work-remotely) ([UNSW teaching page](https://teaching.unsw.edu.au/digital-assessment-toolkit/microsoft-teams))
+- [Zoom](https://zoom.us): free for up to 40 mins for meetings; unlimited 1:1s. [UNSW link](https://www.myit.unsw.edu.au/services/staff/software/zoom-conferencing).
 - Skype
-- VPN access ([UNSW link](https://www.myit.unsw.edu.au/services/students/remote-access-vpn))
+
 
 ### Reading
 
