@@ -49,8 +49,8 @@ Use this opportunity to get up to date with the literature. Here are a few ways 
 ### Play with some computational chemistry
 
 - You can run many tools on a Windows or UNIX system. Otherwise, you should use a high-performance computing (HPC) service such as that provided by your institute.
-- If you want to run some tools on Windows, you first need to [install Windows Subsystem for Linux](install-wsl.html)
-- Start with XTB, which is an open-source program for semi-empirical calculations. Download it from here and install into WSL or on unix:  [https://xtb-docs.readthedocs.io/en/latest/setup.html](https://xtb-docs.readthedocs.io/en/latest/setup.html) (NB: install the binaries. You don't need to compile from source). See [separate document for an XTB tutorial](use-xtb.html)
+- If you want to run some tools on Windows, you first need to [install Windows Subsystem for Linux](install-wsl.md)
+- Start with XTB, which is an open-source program for semi-empirical calculations. Download it from here and install into WSL or on unix:  [https://xtb-docs.readthedocs.io/en/latest/setup.html](https://xtb-docs.readthedocs.io/en/latest/setup.html) (NB: install the binaries. You don't need to compile from source). See [separate document for an XTB tutorial](use-xtb.md)
 - You can install orca onto a Windows computer or use it on a HPC. This program allows you to do some higher levels of theory, including DFT. See [https://orcaforum.kofo.mpg.de/app.php/portal](https://orcaforum.kofo.mpg.de/app.php/portal) for download info and see separate resource for use instructions (tba)
 - You can use Gaussian on our HPC. See separate document (tba).
 
@@ -74,6 +74,3 @@ I'm trying to build this document by taking on information from public and non-p
 - Vittorio Saggiomo's tweet: [https://twitter.com/V\_Saggiomo/status/1238776802530807809](https://twitter.com/V_Saggiomo/status/1238776802530807809)
 - [NewPI slack](https://newpislack.wordpress.com/)
 - [Dr Laura McKemmish](http://www.chemistry.unsw.edu.au/staff/laura-mckemmish) for suggestions
-
-
-[test link](use-xtb.md)
