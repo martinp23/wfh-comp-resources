@@ -49,8 +49,8 @@ Use this opportunity to get up to date with the literature. Here are a few ways 
 ### Play with some computational chemistry
 
 - You can run many tools on a Windows or UNIX system. Otherwise, you should use a high-performance computing (HPC) service such as that provided by your institute.
-- If you want to run some tools on Windows, you first need to install Windows Subsystem for Linux (see [separate document](https://gist.github.com/martinp23/b569751e8c844ee26c339a1985a94bfc))
-- Start with XTB, which is an open-source program for semi-empirical calculations. Download it from here and install into WSL or on unix:  [https://xtb-docs.readthedocs.io/en/latest/setup.html](https://xtb-docs.readthedocs.io/en/latest/setup.html) (NB: install the binaries. You don't need to compile from source). See [separate document for an XTB tutorial](https://gist.github.com/martinp23/ab551ceb328fbfd42d75531ba542b143)
+- If you want to run some tools on Windows, you first need to install Windows Subsystem for Linux (see [separate document](install-wsl.html))
+- Start with XTB, which is an open-source program for semi-empirical calculations. Download it from here and install into WSL or on unix:  [https://xtb-docs.readthedocs.io/en/latest/setup.html](https://xtb-docs.readthedocs.io/en/latest/setup.html) (NB: install the binaries. You don't need to compile from source). See [separate document for an XTB tutorial](use-xtb.html)
 - You can install orca onto a Windows computer or use it on a HPC. This program allows you to do some higher levels of theory, including DFT. See [https://orcaforum.kofo.mpg.de/app.php/portal](https://orcaforum.kofo.mpg.de/app.php/portal) for download info and see separate resource for use instructions (tba)
 - You can use Gaussian on our HPC. See separate document (tba).
 
