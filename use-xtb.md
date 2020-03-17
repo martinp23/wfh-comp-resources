@@ -81,7 +81,7 @@ The manual is the best answer to this question! But you can get an overview of p
 
 ##### Single point
 
-If you run xtb with just an xyz file as an argument, the program will perform a _single point_ calculation. Let's try this with benzene, for which the xyz file can be found attached to this gist:
+If you run xtb with just an xyz file as an argument, the program will perform a _single point_ calculation. Let's try this with benzene, for which the xyz file can be found [here](https://gist.github.com/martinp23/ab551ceb328fbfd42d75531ba542b143):
 
 ```
 xtb benzene-begin.xyz
