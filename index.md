@@ -1,7 +1,7 @@
 ## Things to do for isolated research students
 
 - [Editorials and other information](#editorials-and-other-information)
-- [NSW/UNSW-specific](#nsw-unsw-specific)
+- [NSW/UNSW-specific information](#nsw-unsw-specific)
 - [Video-conferencing tools](#video-conferencing-tools)
 - [Reading](#reading)
 - [Learn python](#learn-python)
