@@ -1,3 +1,9 @@
 UNSW has a proxy through which logged-in users can access journal articles off-site.
 
-This page will describe how to 
+This page will describe how to make a button for your bookmarks bar which will reload the active tab using the proxy.
+
+### Instructions for Chrome
+
+1. Right click on the Bookmark Bar and press 'Add page...'
+2. Change the name to: "Reload using UNSW lib"
+3. Change the path to `javascript:void(location.replace('http://'+location.host+'.wwwproxy1.library.unsw.edu.au'+location.pathname))`
