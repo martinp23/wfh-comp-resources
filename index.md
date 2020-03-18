@@ -94,6 +94,8 @@ I'm trying to build this document by taking on information from public and non-p
 - [Dr Laura McKemmish](http://www.chemistry.unsw.edu.au/staff/laura-mckemmish) for suggestions
 - [Prof Timothy Schmidt](http://www.chemistry.unsw.edu.au/staff/timothy-schmidt) for info about library access
 - [Dr Peter Wich](https://www.wichlab.com/) for LinkedIn Learning
+- Dr Ron Haines
+- Dr Jon Beves
 
 ### Sitemap
 - [Installing and using Windows Subsystem for Linux](install-wsl.md)
