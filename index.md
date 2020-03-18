@@ -18,6 +18,7 @@ This short document lists possible activities suitable for Honours and HDR candi
 ### Editorials and other information
 - [Here's an editorial from Science about isolation](https://www.sciencemag.org/careers/2020/03/working-home-because-covid-19-here-are-10-ways-spend-your-time)
 - A good twitter thread on [setting up a routine](https://twitter.com/WildBrisco/status/1239601642972033032)
+- A general article about [Your productivity, your health, and your sanity from Ars technica](https://arstechnica.com/staff/2020/03/suddenly-working-at-home-weve-done-it-for-22-years-and-have-advice/)
 - Exercise: if safe (i.e. you're not sick), and not prohibited by authorities, take a walk/run around the block. Treat it as your 'commute'. Look into other exercise you might be able to do without access to a gym. 
 
 ### NSW/UNSW-specific 
