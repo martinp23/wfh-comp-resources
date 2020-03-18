@@ -25,7 +25,7 @@ This short document lists possible activities suitable for Honours and HDR candi
 - [UNSW COVID-19](https://www.unsw.edu.au/advice-on-unsw-response-to-the-coronavirus)
 - [UNSW Health COVID-19](https://student.unsw.edu.au/health-service-information-coronavirus#overlay-context=hsu)
 - [UNSW library instructions for off-site access](https://www.library.unsw.edu.au/study/access-to-online-resources)
-- VPN access ([UNSW link](https://www.myit.unsw.edu.au/services/students/remote-access-vpn))
+- Set up VPN access which will allow you to access databases and journal articles easily from home (but also be aware of other ways to access journal articles in case the VPN is too busy) ([UNSW link](https://www.myit.unsw.edu.au/services/students/remote-access-vpn))
 - Accessing journals through the UNSW library proxy: insert this into the URL: `.wwwproxy1.library.unsw.edu.au` between the domain and the path, then log in. For example: https://www.nature.com.wwwproxy1.library.unsw.edu.au/articles/s41586-020-2068-4. Here are [instructions to make a button for your bookmark bar which automatically reloads a page using the proxy](make-lib-bookmarklet.md).
 
 
