@@ -1,6 +1,6 @@
-UNSW has a proxy through which logged-in users can access journal articles off-site.
+UNSW has a proxy which allows logged-in users to access journal articles off-site and without the VPN.
 
-This page describes how to make a button for your bookmarks bar which will reload the active tab using the proxy.
+This page describes how to make a button for your bookmarks bar which will reload the active tab using the proxy. You'd typically press this button when you arrived at a paywalled journal article. Your browser will then reload the tab and you would have access to the article, provided UNSW subscribes.
 
 ### Instructions for Chrome
 
