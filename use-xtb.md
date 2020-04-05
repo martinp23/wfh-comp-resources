@@ -15,6 +15,8 @@
 
 Pre-requisites: Be running a unix system or have Windows Subsystem for Linux installed with a suitable Linux distribution (this tutorial tested with ubuntu)
 
+Using OS X? Follow the instructions [here](https://www.macinchem.org/blog/files/b830354c9829aeb7116b9a30e5456210-2603.php) to install xtb using [conda](https://docs.conda.io/en/latest/).
+
 Download the latest _release_ version from here: [https://github.com/grimme-lab/xtb/releases/](https://github.com/grimme-lab/xtb/releases/) . Choose the xtb-[numbers].tar.xz file. At the time of writing, that is xtb 6.2.2, which has the filename xtb-191209.tar.xz.
 
 Copy the xtb-191209.tar.xz file (or latest version) to wherever you want to install it; I recommend $HOME. For WSL, you can find this by navigating to \\\wsl$\Ubuntu\ in Windows explorer, then going through the directory tree: /home/ then your username.
