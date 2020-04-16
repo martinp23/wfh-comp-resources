@@ -7,6 +7,7 @@
 - [Learn python](#learn-python)
 - [Learn bash/shell](#learn-bash-shell)
 - [Play with some computational chemistry](#play-with-some-computational-chemistry)
+- [Learn chemistry from top researchers](#learn-chemistry)
 - [Learn machine-learning and data science](#learn-machine-learning-and-data-science)
 - [Learn something else new](#learn-something-else-new)
 - [Get on top of administration and data analysis](#get-on-top-of-administration-and-data-analysis)
@@ -70,6 +71,11 @@ Use this opportunity to get up to date with the literature. Here are a few ways 
 - Start with XTB, which is an open-source program for semi-empirical calculations. Download it from here and install into WSL or on unix:  [https://xtb-docs.readthedocs.io/en/latest/setup.html](https://xtb-docs.readthedocs.io/en/latest/setup.html) (NB: install the binaries. You don't need to compile from source). See [separate document for an XTB tutorial](use-xtb.md)
 - You can install orca onto a Windows computer or use it on a HPC. This program allows you to do some higher levels of theory, including DFT. See [https://orcaforum.kofo.mpg.de/app.php/portal](https://orcaforum.kofo.mpg.de/app.php/portal) for download info and see separate resource for use instructions (tba)
 - You can use Gaussian on our HPC. See separate document (tba).
+
+### Learn chemistry
+
+- [Electrochemistry from Caltech on Youtube](https://www.youtube.com/watch?v=xBGDehHa1FU&list=PLWh1_UGe00vk_1Ta2oz1T98bfezs-Cb1R)
+- [Heterocycles with Phil Baran, Scripps](https://www.youtube.com/watch?v=H7ZiI8IlUK0&list=PLZ0nxZgbV3vYHmafX7YDDAFHsfy_PpNp4)
 
 ### Learn machine-learning and data science
 - [Kaggle has a range of resources and comptetitions for learning data science](https://www.kaggle.com/)
