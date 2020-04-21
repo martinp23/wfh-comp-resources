@@ -38,9 +38,9 @@ XTBPATH=${XTBHOME}/share/xtb:${XTBHOME}:${HOME}
 MANPATH=${MANPATH}:${XTBHOME}/share/man
 # finally we have to make the binaries and scripts accessable
 PATH=${PATH}:${XTBHOME}/bin
-LD\_LIBRARY\_PATH=${LD\_LIBRARY\_PATH}:${XTBHOME}/lib
+LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${XTBHOME}/lib
 PYTHONPATH=${PYTHONPATH}:${XTBHOME}/python
-export PATH XTBPATH MANPATH LD\_LIBRARY\_PATH PYTHONPATH
+export PATH XTBPATH MANPATH LD_LIBRARY_PATH PYTHONPATH
 ```
 
 - Read the new bashrc using source .bashrc
